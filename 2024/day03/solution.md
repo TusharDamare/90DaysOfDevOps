@@ -42,8 +42,6 @@ Task 10: Add content in `Colors.txt` (one in each line) - Red, Pink, White, Blac
 
 ![image](https://github.com/Bhavin213/90DaysOfDevOps/blob/master/2024/day03/image/task%2010.png)
 
-Task 11: Find and display the lines that are common between `fruits.txt` and `Colors.txt`.
-
 ![image](https://github.com/Bhavin213/90DaysOfDevOps/blob/master/2024/day03/image/task%2011.png)
 
 Task 12: Count the number of lines, words, and characters in both `fruits.txt` and `Colors.txt`.
