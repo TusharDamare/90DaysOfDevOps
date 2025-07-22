@@ -3,7 +3,6 @@
 Task: What are the Linux commands to
 
 1. View the content of a file and display line numbers.
-![Alt text](relative/path/to/image.png)
 ![Task 1 Output](ss/Task1.png)
 
 2. Change the access permissions of files to make them readable, writable, and executable by the owner only.
