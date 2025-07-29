@@ -12,7 +12,7 @@ As a devops engineer below are the fields where shell scripts mostly used :
 -Configuring 
 
 Example :
-![Task 1 Output](images/image1.png)
+![example1](images/Image1.png)
 
 
 2- What is `#!/bin/bash`? Can we write `#!/bin/sh` as well?
@@ -36,8 +36,8 @@ echo "I will complete #90DaysOfDevOps challenge."
 
 4- Write a Shell Script that takes user input, input from arguments, and prints the variables.
 
-! [example] (images/Image2.png)
+![example2](images/Image2.png)
 
 5- Provide an example of an If-Else statement in Shell Scripting by comparing two numbers.
 
-! [example_if-else] (images/image3.pnp)
+![example3](images/Image3.png)
