@@ -12,7 +12,7 @@ As a devops engineer below are the fields where shell scripts mostly used :
 -Configuring 
 
 Example :
-![example_1] (images/Image1.png)
+![example_1] (C:\TusharDev25\90DaysOfDevOps\2024\day04\images\Image1.png)
 
 
 2- What is `#!/bin/bash`? Can we write `#!/bin/sh` as well?
