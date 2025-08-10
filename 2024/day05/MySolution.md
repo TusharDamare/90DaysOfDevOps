@@ -7,12 +7,12 @@
    - Example 1: When executed as `./createDirectories.sh day 1 90`, it creates 90 directories as `day1 day2 day3 ... day90`.
    - Example 2: When executed as `./createDirectories.sh Movie 20 50`, it creates 31 directories as `Movie20 Movie21 Movie22 ... Movie50`.
 
-  Answer : ![image](image1.png)
+  Answer : ![image](images/image1.png)
 
 2. **Create a Script to Backup All Your Work:**
    - Backups are an important part of a DevOps Engineer's day-to-day activities. The video in the references will help you understand how a DevOps Engineer takes backups (it can feel a bit difficult but keep trying, nothing is impossible).
 
-   Answer : ![image](image2.png)
+   Answer : ![image](images/image2.png)
 
 
 3. **Read About Cron and Crontab to Automate the Backup Script:**
@@ -24,11 +24,9 @@
    - Create 2 users and display their usernames.
    - [Check out this reference: User Management in Linux](https://www.geeksforgeeks.org/user-management-in-linux/).
 
-   Answer : ![image](image3.png)
+   Answer : ![image](images/image3.png)
 
 5. **Post Your Progress:**
    - Post your daily work on LinkedIn and let me know how it went! Writing an article about your experience is highly encouraged.
-
-**Were the tasks challenging?**
-
-These tasks are designed to push your skills and introduce you to advanced concepts in Linux shell scripting and user management. Share your experience and solutions on LinkedIn and let me know how it went!
+   
+   Answer : Done 
