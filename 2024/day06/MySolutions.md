@@ -70,4 +70,4 @@ Execute (x): Allows executing a file (if it’s a script or program) or accessin
 
 
    - Task: Create another script that restores the permissions from the backup file.
-   ![image](Images/image7.png)   
+    ![image](images/image7.png)
