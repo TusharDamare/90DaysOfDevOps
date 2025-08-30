@@ -16,7 +16,7 @@
 ### Task 2:
 - Create a repository named "DevOps" on GitHub.
 - Connect your local repository to the repository on GitHub.
-- Create a new file in Devops/Git/Day-02.txt & add some content to it.
+- Create a new file in Devops/Git/Day-12.txt & add some content to it.
 - Push your local commits to the repository on GitHub.
 
 Reference: [YouTube Video](https://youtu.be/AT1uxOLsCdk)
