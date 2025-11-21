@@ -14,6 +14,7 @@ Share your journey with the world! Post about your accomplishments on social med
 
 The knowledge and skills you've gained during these 90 days are just the beginning. Keep practicing, experimenting, and collaborating. DevOps is a continuous journey of improvement and innovation.
 
+
 ### Star the Repository
 
 If you've found value in this repository and the DevOps content we've curated, consider showing your appreciation by starring this repository. Your support motivates us to keep creating high-quality content and resources for the community.

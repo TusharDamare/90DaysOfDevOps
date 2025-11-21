@@ -36,12 +36,25 @@ For a better understanding of Git Rebase and Merge, check out this [article](htt
      ```bash
      git add Devops/Git/version01.txt
      git commit -m "Added new feature"
-     ```
+
+     Answer:
+     ![image](images/image1.png)
+     ![image](images/image2.png)
+
+     ````
+
+
 
 2. **Push Changes to GitHub:**
    - Push your local commits to the repository on GitHub.
      ```bash
      git push origin dev
+
+     ![image](images/image3.png)
+     ![image](images/image4.png)
+
+
+
      ```
 
 3. **Add More Features with Separate Commits:**
@@ -60,40 +73,47 @@ For a better understanding of Git Rebase and Merge, check out this [article](htt
        ```bash
        echo "This feature will gadbad everything from now" >> Devops/Git/version01.txt
        git commit -am "Added feature4 in development branch"
-       ```
+
+       ![image](images/image5.png)
+
+
 
 4. **Restore the File to a Previous Version:**
    - Revert or reset the file to where the content should be “This is the bug fix in development branch”.
      ```bash
      git revert HEAD~2
-     ```
+
+    ![image](images/image6.png)
+
+     ``
+     
+  `
 
 ### Task 2: Working with Branches
 
 1. **Demonstrate Branches:**
    - Create 2 or more branches and take screenshots to show the branch structure.
+   ![image](images/image7.png)
+
+
 
 2. **Merge Changes into Master:**
    - Make some changes to the `dev` branch and merge it into `master`.
      ```bash
      git checkout master
      git merge dev
+
+     ![image](images/image8.png)
+
+
      ```
 
 3. **Practice Rebase:**
    - Try rebasing and observe the differences.
      ```bash
      git rebase master
+
+    ![image](images/image9.png)
      ```
 
-## Note:
 
-Following best practices for branching is important. Check out these [best practices](https://www.flagship.io/git-branching-strategies/) that the industry follows.
-
-Simple Reference on branching: [video](https://youtu.be/NzjK9beT_CY)
-
-Advanced Reference on branching: [video](https://youtu.be/7xhkEQS3dXw)
-
-Share your learnings from this task on LinkedIn using #90DaysOfDevOps Challenge. Happy Learning!
-
-[← Previous Day](../day12/README.md) | [Next Day →](../day14/README.md)
