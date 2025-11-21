@@ -51,7 +51,7 @@ For a better understanding of Git Rebase and Merge, check out this [article](htt
      ```
      
  ![image](images/image3.png)
- ![image](images/image4.png)
+
 
 
 
@@ -72,6 +72,8 @@ For a better understanding of Git Rebase and Merge, check out this [article](htt
        echo "This feature will gadbad everything from now" >> Devops/Git/version01.txt
        git commit -am "Added feature4 in development branch"
 
+  ![image](images/image4.png)
+
  ![image](images/image5.png)
 
 
@@ -81,7 +83,7 @@ For a better understanding of Git Rebase and Merge, check out this [article](htt
      ```bash
      git revert HEAD~2
      ```
-
+ ![image](images/image5.png)
 ![image](images/image6.png)
 
     
