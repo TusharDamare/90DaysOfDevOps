@@ -37,11 +37,9 @@ For a better understanding of Git Rebase and Merge, check out this [article](htt
      git add Devops/Git/version01.txt
      git commit -m "Added new feature"
 
-     Answer:
-     ![image](images/image1.png)
-     ![image](images/image2.png)
-
      ````
+ ![image](images/image1.png)
+ ![image](images/image2.png)
 
 
 
@@ -50,12 +48,12 @@ For a better understanding of Git Rebase and Merge, check out this [article](htt
      ```bash
      git push origin dev
 
-     ![image](images/image3.png)
-     ![image](images/image4.png)
-
-
-
      ```
+     
+ ![image](images/image3.png)
+ ![image](images/image4.png)
+
+
 
 3. **Add More Features with Separate Commits:**
    - Update `version01.txt` with the following lines, committing after each change:
@@ -74,7 +72,7 @@ For a better understanding of Git Rebase and Merge, check out this [article](htt
        echo "This feature will gadbad everything from now" >> Devops/Git/version01.txt
        git commit -am "Added feature4 in development branch"
 
-       ![image](images/image5.png)
+ ![image](images/image5.png)
 
 
 
@@ -82,10 +80,11 @@ For a better understanding of Git Rebase and Merge, check out this [article](htt
    - Revert or reset the file to where the content should be “This is the bug fix in development branch”.
      ```bash
      git revert HEAD~2
+     ```
 
-    ![image](images/image6.png)
+![image](images/image6.png)
 
-     ``
+    
      
   `
 
@@ -93,7 +92,7 @@ For a better understanding of Git Rebase and Merge, check out this [article](htt
 
 1. **Demonstrate Branches:**
    - Create 2 or more branches and take screenshots to show the branch structure.
-   ![image](images/image7.png)
+![image](images/image7.png)
 
 
 
@@ -103,7 +102,7 @@ For a better understanding of Git Rebase and Merge, check out this [article](htt
      git checkout master
      git merge dev
 
-     ![image](images/image8.png)
+ ![image](images/image8.png)
 
 
      ```
@@ -113,5 +112,5 @@ For a better understanding of Git Rebase and Merge, check out this [article](htt
      ```bash
      git rebase master
 
-    ![image](images/image9.png)
      ```
+![image](images/image9.png)
