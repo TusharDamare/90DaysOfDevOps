@@ -137,4 +137,4 @@ This command reverts the last two commits, effectively removing the "gadbad code
 
    - During a rebase, Git re-applies commits from the current branch (in this case, dev) onto the target branch (master). This results in a linear commit history.
 
-[LinkedIn](https://www.linkedin.com/in/bhavin-savaliya/)
+
