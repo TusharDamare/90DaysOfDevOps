@@ -74,7 +74,6 @@ For a better understanding of Git Rebase and Merge, check out this [article](htt
 
   ![image](images/image4.png)
 
- ![image](images/image5.png)
 
 
 
@@ -84,7 +83,6 @@ For a better understanding of Git Rebase and Merge, check out this [article](htt
      git revert HEAD~2
      ```
  ![image](images/image5.png)
-![image](images/image6.png)
 
     
      
@@ -94,7 +92,7 @@ For a better understanding of Git Rebase and Merge, check out this [article](htt
 
 1. **Demonstrate Branches:**
    - Create 2 or more branches and take screenshots to show the branch structure.
-![image](images/image7.png)
+![image](images/image6.png)
 
 
 
@@ -104,7 +102,7 @@ For a better understanding of Git Rebase and Merge, check out this [article](htt
      git checkout master
      git merge dev
 
- ![image](images/image8.png)
+ ![image](images/image7.png)
 
 
      ```
@@ -114,5 +112,5 @@ For a better understanding of Git Rebase and Merge, check out this [article](htt
      ```bash
      git rebase master
 
-     ```
+![image](images/imag8.png)
 ![image](images/image9.png)
