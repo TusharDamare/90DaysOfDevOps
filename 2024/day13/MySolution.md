@@ -112,5 +112,5 @@ For a better understanding of Git Rebase and Merge, check out this [article](htt
      ```bash
      git rebase master
 
-![image](images/imag8.png)
+![image](images/image8.png)
 ![image](images/image9.png)
