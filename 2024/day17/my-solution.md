@@ -28,7 +28,7 @@ Answer:
 - Verify that the application is working as expected by accessing it in a web browser
 Answer:
 ![image](images/image5.png)
-![image](images/image7.png)
+![image](images/image6.png)
 
 - Push the image to a public or private repository (e.g. Docker Hub)
 Answer :
