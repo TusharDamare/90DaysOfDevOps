@@ -33,5 +33,3 @@ Answer:
 - Push the image to a public or private repository (e.g. Docker Hub)
 Answer :
 ![image](images/image7.png)
-
-
