@@ -22,6 +22,7 @@ Create a multi-container docker-compose file that will bring up and bring down c
 - Use the `docker-compose down` command to stop and remove all containers, networks, and volumes associated with the application.
 
 Answers of Task1:
+
 ![image](images/image1.png)
 
 ![image](images/image2.png)
