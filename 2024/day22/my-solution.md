@@ -18,6 +18,7 @@ By automating repetitive tasks, Jenkins reduces manual intervention and minimize
 Jenkins plays a key role in automating the build process by compiling code and generating artifacts whenever a change is detected. After the build, it can automatically run different types of tests such as unit tests and integration tests to verify that the application works as expected. If any test fails, Jenkins immediately notifies the team, preventing faulty code from moving forward.
 
 For deployment, Jenkins can be configured to deploy applications to test, staging, or production environments using tools like Docker, Kubernetes, or cloud platforms. This automation ensures faster and more reliable releases. Overall, Jenkins helps organizations deliver software more frequently, with better stability and improved confidence in each release.
+-------------------------------------------------------------------------------------------------------------------
 
 
 Answer 2 :
