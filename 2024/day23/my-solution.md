@@ -18,3 +18,8 @@ App is running successfully :
 - Create a Jenkins project to run the `docker-compose up -d` command to start multiple containers defined in the compose file (Hint: use the application and database docker-compose file from Day 19).
 - Set up a cleanup step in the Jenkins project to run the `docker-compose down` command to stop and remove the containers defined in the compose file.
 
+Answer : 
+![alt text](image-2.png)
+
+![alt text](image-3.png)
+
