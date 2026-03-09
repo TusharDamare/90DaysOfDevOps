@@ -16,6 +16,7 @@ You've been making amazing progress, so let's take a moment to catch up and refi
 
 ## Task 2
 
+
 - As it's a lighter day, set a small goal for yourself. Consider something you've been meaning to accomplish and use this time to focus on it.
 
 - Share your goal and how you plan to achieve it using [this template](https://www.linkedin.com/posts/shubhamlondhe1996_taking-resolutions-and-having-goals-for-an-activity-7023858409762373632-s2J8?utm_source=share&utm_medium=member_desktop).
